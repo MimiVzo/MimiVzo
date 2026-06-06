@@ -49,7 +49,7 @@
 
 | 🐱 Meowmiaumotchi | 💬 Mimichat | 🐾 Pet Point |
 |:---:|:---:|:---:|
-| Virtual cat Tamagotchi-style con animaciones kawaii, sistema de stats de hambre, felicidad y energía, notificaciones push y modo oscuro | App de mensajería con diseño cute y experiencia de usuario personalizada | Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados |
+| Gatito virtual al estilo tamagotchi con animaciones kawaii, sistema de stats de hambre, felicidad y energía, notificaciones push y modo oscuro | App de mensajería con diseño cute y experiencia de usuario personalizada | Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
 </div>
