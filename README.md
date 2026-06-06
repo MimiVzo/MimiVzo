@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MimiVzo&show_icons=true&theme=radical&title_color=f06292&icon_color=f48fb1&text_color=ce93d8&bg_color=1a0a14&border_color=f06292&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MimiVzo&show_icons=true&theme=radical&title_color=f06292&icon_color=f48fb1&text_color=ce93d8&bg_color=1a0a14&border_color=f06292&count_private=false" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiVzo&layout=compact&theme=radical&title_color=f06292&text_color=ce93d8&bg_color=1a0a14&border_color=f06292&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiVzo&layout=compact&theme=radical&title_color=f06292&text_color=ce93d8&bg_color=1a0a14&border_color=f06292" height="160"/>
 
 </div>
 
