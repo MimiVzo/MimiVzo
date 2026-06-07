@@ -6,7 +6,7 @@
 <img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
 <img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
 
-# ✿ Hola, soy Mimi ✿
+# ✨🌸 Hola, soy Mimi 🌸✨
 
 
 <img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="120"/>
