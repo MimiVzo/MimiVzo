@@ -115,7 +115,7 @@ Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiVzo&layout=compact&theme=radical&title_color=f06292&text_color=ce93d8&bg_color=1a0a14&border_color=f06292" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MimiVzo&theme=radical&background=1a0a14&border=f06292&ring=f06292&fire=f48fb1&currStreakLabel=f48fb1&sideLabels=ce93d8&dates=ce93d8" height="160"/>
+
 
 </div>
 
