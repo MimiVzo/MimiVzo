@@ -145,7 +145,7 @@ Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados
 <img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="60"/>
 <img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="60"/>
 
-🌸 *made with love & java* ☕ · **@MimiVzo** 🌸
+🌸 *Made with love & imagination* ☕ · **@MimiVzo** 🌸
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MimiVzo.MimiVzo&left_color=hotpink&right_color=deeppink)
 
