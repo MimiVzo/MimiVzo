@@ -70,7 +70,7 @@ Gatito virtual al estilo Tamagotchi con animaciones kawaii, stats de hambre, fel
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-<img src="https://media.tenor.com/43M6SapvkHYAAAAj/cat-pink.gif" width="150"/>
+<img src="https://media.tenor.com/43M6SapvkHYAAAAj/cat-pink.gif" width="110"/>
 
 </td>
 <td align="center" width="33%">
