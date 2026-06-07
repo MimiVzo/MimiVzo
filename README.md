@@ -1,12 +1,12 @@
 <!-- ✿ README kawaii de MimiVzo ✿ -->
 
 <div align="center">
-  
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
 # ✿ Hola, soy Mimi ✿
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Apasionada+del+desarrollo+m%C3%B3vil+%F0%9F%93%B1;Android+dev+con+Java+%E2%98%95;Fan+del+dise%C3%B1o+kawaii+y+pixel+art+%F0%9F%8E%A8;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" />
-
-<img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="120"/>
 
 🌸 ✨ 🎀 ✨ 🌸
 
