@@ -141,6 +141,6 @@ Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados
 
 🌸 *Made with love & imagination* ☕ · **@MimiVzo** 🌸
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MimiVzo.MimiVzo&left_color=hotpink&right_color=deeppink)
+
 
 </div>
