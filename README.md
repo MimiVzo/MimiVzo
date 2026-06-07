@@ -8,6 +8,7 @@
 
 # ✨🌸 Hola, soy Mimi 🌸✨
 
+<img src="https://tenor.com/0CYgjJD5tN.gif" width="120"/>
 
 <img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="120"/>
 
