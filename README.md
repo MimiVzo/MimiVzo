@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/> * ♥ Mis herramientas favoritas ♥* <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/> ♥ Mis herramientas favoritas ♥ <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
