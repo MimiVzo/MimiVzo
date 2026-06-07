@@ -65,7 +65,7 @@
 
 <img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
 
-Virtual cat Tamagotchi-style con animaciones kawaii, stats de hambre, felicidad y energía, notificaciones push y modo oscuro
+Gatito virtual al estilo Tamagotchi con animaciones kawaii, stats de hambre, felicidad y energía, notificaciones push y modo oscuro
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
