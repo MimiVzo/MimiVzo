@@ -2,19 +2,25 @@
 
 <div align="center">
 
-🌸 ✨ 🎀 ✨ 🌸
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
 
 # ✿ Hola, soy Mimi ✿
 
-### Estudiante de ingeniería & dev de apps Android 🌸
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=18&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Apasionada+del+desarrollo+m%C3%B3vil+%F0%9F%93%B1;Android+dev+con+Java+%E2%98%95;Fan+del+dise%C3%B1o+kawaii+y+pixel+art+%F0%9F%8E%A8;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=18&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Apasionada+del+desarrollo+m%C3%B3vil+%F0%9F%93%B1;Android+dev+con+Java+%E2%98%95;Fan+del+dise%C3%B1o+kawaii+y+pixel+art+%F0%9F%8E%A8;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8)
+<img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="120"/>
+
+🌸 ✨ 🎀 ✨ 🌸
 
 </div>
 
 ---
 
 ## 🌷 Sobre mí
+
+<img align="right" src="https://media.tenor.com/qhODMRzFFvAAAAAi/cat-pink.gif" width="160"/>
 
 - 🎓 Estudiante de Ingeniería en Sistemas
 - 📱 Apasionada del desarrollo de apps Android con Java
@@ -23,11 +29,15 @@
 - 🇲🇽 Jalisco, México
 - ⚡ Siempre aprendiendo cosas nuevas
 
+<br clear="right"/>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/> *mis herramientas favoritas* <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="30"/>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -46,13 +56,49 @@
 ## 🎀 Proyectos destacados
 
 <div align="center">
-
-| 🐱 Meowmiaumotchi | 💬 Mimichat | 🐾 Pet Point |
-|:---:|:---:|:---:|
-| Gatito virtual al estilo tamagotchi con animaciones kawaii, sistema de stats de hambre, felicidad y energía, notificaciones push y modo oscuro | App de mensajería con diseño cute y experiencia de usuario personalizada | Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-
+<img src="https://media.tenor.com/qhODMRzFFvAAAAAi/cat-pink.gif" width="60"/>
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🐱 Meowmiaumotchi**
+
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="80"/>
+
+Virtual cat Tamagotchi-style con animaciones kawaii, stats de hambre, felicidad y energía, notificaciones push y modo oscuro
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**💬 Mimichat**
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="80"/>
+
+App de mensajería con diseño cute y experiencia de usuario personalizada
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🐾 Pet Point**
+
+<img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="80"/>
+
+Plataforma para mascotas con gestión de perfiles y seguimiento de cuidados
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,7 +106,15 @@
 
 <div align="center">
 
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="25"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MimiVzo&show_icons=true&theme=radical&title_color=f06292&icon_color=f48fb1&text_color=ce93d8&bg_color=1a0a14&border_color=f06292&count_private=false" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiVzo&layout=compact&theme=radical&title_color=f06292&text_color=ce93d8&bg_color=1a0a14&border_color=f06292" height="160"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimiVzo&theme=radical&background=1a0a14&border=f06292&ring=f06292&fire=f48fb1&currStreakLabel=f48fb1&sideLabels=ce93d8&dates=ce93d8" height="160"/>
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/sparkle.gif" width="25"/>
 
 </div>
 
@@ -69,6 +123,8 @@
 ## 🌸 Contacto
 
 <div align="center">
+
+<img src="https://media.tenor.com/qhODMRzFFvAAAAAi/cat-pink.gif" width="80"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU-ID)
@@ -79,6 +135,10 @@
 ---
 
 <div align="center">
+
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="60"/>
+<img src="https://media.tenor.com/On4OKALKpgEAAAAi/kawaii-cute.gif" width="60"/>
+<img src="https://media.tenor.com/bnOTEBGXuvMAAAAi/cat-cats.gif" width="60"/>
 
 🌸 *made with love & java* ☕ · **@MimiVzo** 🌸
 
