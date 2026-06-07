@@ -84,6 +84,8 @@ App de mensajería con diseño cute y experiencia de usuario personalizada
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
+<img src="https://media.tenor.com/vBGIfQpLk50AAAAi/sanrio-sanrio-characters.gif" width="110"/>
+
 </td>
 <td align="center" width="33%">
 
