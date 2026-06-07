@@ -20,12 +20,12 @@
 
 <img align="right" src="https://media.tenor.com/qhODMRzFFvAAAAAi/cat-pink.gif" width="160"/>
 
-- 🎓 Estudiante de Ingeniería en Sistemas
-- 📱 Apasionada del desarrollo de apps Android con Java
-- 🎨 Fan del pixel art, el diseño kawaii y las paletas pastel
-- 🐱 Creadora de experiencias digitales lindas y funcionales
-- 🇲🇽 Jalisco, México
-- ⚡ Siempre aprendiendo cosas nuevas
+- 🎓 Egresada de la carrera de Ingeniería Informática  💻
+- 📱 Apasionada del desarrollo de apps Android 📱
+- 🎨 Fan del pixel art, el diseño kawaii y las paletas pastel 👾💕🐈
+- 🐱 Creadora de experiencias digitales lindas y funcionales ✨🎀
+- 🇲🇽 Jalisco, México 📍
+- Siempre aprendiendo cosas nuevas ⚡
 
 <br clear="right"/>
 
